@@ -12,7 +12,7 @@
   "author": "Francisco Cabezas",
   "license": "ISC",
   "dependencies": {
-    "koa": "^2.13.4",
+    "koa": "^2.14.2",
     "koa-body": "^4.2.0",
     "koa-router": "^10.1.1"
   },
